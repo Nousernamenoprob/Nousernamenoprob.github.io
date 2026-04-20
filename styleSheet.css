@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 18, 2026, 11:15:34 PM
+    Author     : madka
+*/
+
+                    body{
+                    background-color:#B5F9D4;
+                }
+                    
+                    a{
+                        color:white;
+                        text-decoration:none;
+                    }
+                    
+                    a:hover{
+                        color:#B5F9D4;
+                    }
+                    
+                    a:active{
+                        color:orangered;
+                    }
+                    
+                    .leftSong{
+                        font-size:18px;
+                        font-size: 20px;
+                        float:left;
+                        text-align:center;
+                        margin-left:50px;
+                        padding-bottom:30px;
+                    }
+                    
+                    .rightSong{
+                        font-size:18px;
+                        font-size: 20px;
+                        float:right;
+                        text-align:center;
+                        margin-right:50px;
+                        padding-bottom:30px;
+                    }
+                    
+                    .rightMovie{
+                        font-size:18px;
+                        text-align:center;
+                        padding-top: 35px;
+                        font-size: 20px;
+                    }
+                    
+                    .leftMovie{
+                        font-size:18px;
+                        text-align:center;
+                        padding-top: 35px;
+                        font-size: 20px;
+                    }
+                    
+                    table{
+                        width:100%;
+                        border-spacing: 20px
+                    }
+                    
+                    td{
+                        height:350px;
+                        background-color:#FFA87E;
+                        border-radius:25px;
+                    }
+                    
+                    th{
+                        background-color:#FFA87E;
+                        border-radius:25px;
+                    }
+                    
+                    .aboutMe{
+                        background-color:#FFA87E;
+                        color:white;
+                        border-radius:15px;
+                        padding:10px;
+                        font-size:18px
+                    }
+                    
+                    h2{
+                        text-align:center;
+                        background-color:#FFA87E;
+                        color:white;
+                        border-radius:15px;
+                    }
+
